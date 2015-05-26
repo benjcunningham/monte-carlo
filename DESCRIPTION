@@ -1,4 +1,4 @@
-Package: monte-carlo
+Package: rcarlo
 Type: Package
 Title: Monte Carlo simulations
 Version: 0.1

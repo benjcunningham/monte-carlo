@@ -1,4 +1,4 @@
-monte-carlo
+rcarlo
 ===
 
 Miscellaneous exercises in Monte Carlo simulation.
@@ -10,13 +10,13 @@ This R package is a compilation of functions that model mathematical problems us
 The package can be installed using:
 
 ```r
-devtools::install_github("benjcunningham/monte-carlo")
+devtools::install_github("benjcunningham/rcarlo")
 ```
 
 After installation, the package can be loaded using:
 
 ```r
-library(monte-carlo)
+library(rcarlo)
 ```
 
 ####License
