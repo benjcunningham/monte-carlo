@@ -1,0 +1,8 @@
+Package: monte-carlo
+Type: Package
+Title: Monte Carlo simulations
+Version: 0.1
+Date: 2015-05-26
+Author: Ben Cunningham <benjamin-cunningham@uiowa.edu>
+Description: Miscellaneous exercises in Monte Carlo simulation.
+License: GPL-3
