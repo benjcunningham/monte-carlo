@@ -5,7 +5,7 @@
 #' Bernoulli.
 #' 
 #' @param x The number of lotteries to simulate.
-#' @param be The price at which the player plays the game.
+#' @param bet The price at which the player plays the game.
 #' @export
 #' @return The average payout across all simulated lotteries.
 #' @examples petersburg(10000, bet = 15)
