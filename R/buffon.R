@@ -8,9 +8,9 @@
 #' @param n The length of the needle. 
 #' @export
 #' @return A rational approximation of π, calculated as drops / hits.
-#' @examples buffons_needle(10000)
+#' @examples buffon(10000)
 
-buffons_needle <- function(drops, w = 2, n = 1) {
+buffon <- function(drops, w = 2, n = 1) {
   hits <- 0
   for (i in 1:drops) {
     d <- runif(1, min = 0, max = w / 2)
